@@ -1,37 +1,27 @@
 [
   {
-    "_id": "66c68e3072e17f70a017d0e1",
-    "index": 0,
-    "content": "Text0"
-  },
-  {
-    "_id": "66c68e30b5fe570c07f47630",
     "index": 1,
-    "content": "Text1"
+    "name": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge."
   },
   {
-    "_id": "66c68e30850be5b494865171",
     "index": 2,
-    "content": "Text2"
+    "name": "Maya Angelou",
+    "quote": "You will face many defeats in life, but never let yourself be defeated."
   },
   {
-    "_id": "66c68e305a7b53d0638296a6",
     "index": 3,
-    "content": "Text3"
+    "name": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken."
   },
   {
-    "_id": "66c68e30f27985bc5af9c8bb",
     "index": 4,
-    "content": "Text4"
+    "name": "Nelson Mandela",
+    "quote": "It always seems impossible until it’s done."
   },
   {
-    "_id": "66c68e305b07eac60bf5416a",
     "index": 5,
-    "content": "Text5"
-  },
-  {
-    "_id": "66c68e30cfbb011f3658832e",
-    "index": 6,
-    "content": "Text6"
+    "name": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
   }
 ]
